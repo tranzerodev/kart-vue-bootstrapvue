@@ -1,0 +1,97 @@
+{
+  "requisition": [
+    {
+      "position": "new",
+      "positionSelected": "1",
+      "existingJobRequisition": "2",
+      "requisitionType": "internal",
+      "checkedOptions": [
+        "salary",
+        "socialUnprotectedJob"
+      ],
+      "company": "test",
+      "supervisory": "test",
+      "primaryRecruiter": "tst",
+      "costCenter": "test",
+      "thirdPartyRecruiter": "test",
+      "id": 1
+    },
+    {
+      "position": "new",
+      "positionSelected": "2",
+      "existingJobRequisition": "2",
+      "requisitionType": "internal",
+      "checkedOptions": [
+        "salary"
+      ],
+      "company": "test",
+      "supervisory": "test",
+      "primaryRecruiter": "test",
+      "costCenter": "test",
+      "thirdPartyRecruiter": "test",
+      "id": 2
+    }
+  ],
+  "requisitions": [
+    {
+      "id": 1,
+      "companyLogo": "",
+      "status": "",
+      "jobPosition": "Director",
+      "jobCompany": "Google",
+      "jobPlace": "Sacrament, California",
+      "time": "Full Time",
+      "postedDate": "2 days ago"
+    },
+    {
+      "id": 2,
+      "companyLogo": "",
+      "status": "",
+      "jobPosition": "Director",
+      "jobCompany": "Google",
+      "jobPlace": "Sacrament, California",
+      "time": "Full Time",
+      "postedDate": "2 days ago"
+    },
+    {
+      "id": 3,
+      "companyLogo": "",
+      "status": "",
+      "jobPosition": "Director",
+      "jobCompany": "Google",
+      "jobPlace": "Sacrament, California",
+      "time": "Full Time",
+      "postedDate": "2 days ago"
+    },
+    {
+      "id": 4,
+      "companyLogo": "",
+      "status": "",
+      "jobPosition": "Director",
+      "jobCompany": "Google",
+      "jobPlace": "Sacrament, California",
+      "time": "Full Time",
+      "postedDate": "2 days ago"
+    },
+    {
+      "id": 5,
+      "companyLogo": "",
+      "status": "",
+      "jobPosition": "Director",
+      "jobCompany": "Google",
+      "jobPlace": "Sacrament, California",
+      "time": "Full Time",
+      "postedDate": "2 days ago"
+    },
+    {
+      "id": 6,
+      "companyLogo": "",
+      "status": "",
+      "jobPosition": "Director",
+      "jobCompany": "Google",
+      "jobPlace": "Sacrament, California",
+      "time": "Full Time",
+      "postedDate": "2 days ago"
+    }
+  ]
+}

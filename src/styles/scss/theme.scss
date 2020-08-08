@@ -1,0 +1,25 @@
+@import '../../assets/scss/main.scss'; 
+$light-blue: #3CB1E5;
+$light-black: #404040;
+$dark-grey: #565656;
+//$dark-grey-200: #565656;
+
+$primary: $light-blue;
+$dark: $light-black;
+$info: #D3EDF9;
+$theme-colors:(
+    "tertiary": #42C2E0,
+    "mat": #f4f4fc,
+    "brown": #DCA71E,
+    "yellow": yellow,
+    "dark-grey": #565656,
+    "dark-grey-200": #555555,
+    "light-block": #404040,
+    "purple": #655DC6
+);
+$border-width: 1px;
+$font-family: Acumin Pro;
+
+// Include Bootstrap and BootstrapVue SCSS files
+@import '~bootstrap/scss/bootstrap.scss';
+@import '~bootstrap-vue/src/index.scss';

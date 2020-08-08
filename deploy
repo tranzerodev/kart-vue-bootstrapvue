@@ -1,0 +1,8 @@
+#!/bin/sh     
+ssh -t -t ubuntu@13.58.44.141 <<EOF       
+ cd /opt/caravel-ui
+ git pull 
+ npm install
+ npm run build
+ exit
+EOF
